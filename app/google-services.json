@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "8315600969",
+    "firebase_url": "https://my-car-parking-c8eea.firebaseio.com",
+    "project_id": "my-car-parking-c8eea",
+    "storage_bucket": "my-car-parking-c8eea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8315600969:android:8eaa24059cd36c3310ff98",
+        "android_client_info": {
+          "package_name": "com.example.canteenautomation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8315600969-mqe0sp3gvuilam02d629e9gbe9go1a6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKXvHOlPM5QZz58rDyURPJFGGQkA2-e4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8315600969-mqe0sp3gvuilam02d629e9gbe9go1a6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
